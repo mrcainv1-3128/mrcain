@@ -1,0 +1,10 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "New Update",
+  "Description": "New Genre Added : \n•Isekai",
+  "MainTextButton": "Update",
+  "Cancelable": true,
+  "CancelButtonText": "Later",
+  "DownloadLink": "https://google.com",
+  "Version": 1.7
+}
