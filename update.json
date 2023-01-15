@@ -1,7 +1,7 @@
 {
   "Visibility": "VISIBLE",
   "Title": "New Update",
-  "Description": "What's New? \nNEW UI\n FIX SOME BUG\n CAN ZOOM IMAGE WHEN CLICKED\n YOU CAN NOW DOWNLOAD ANIME!!.",
+  "Description": "What's New?\n New UI\n Fix Some Bug\n Can Zoom Image When Clicked\n You Can Now Download Anime!!.",
   "MainTextButton": "Update",
   "Cancelable": true,
   "CancelButtonText": "Later",
